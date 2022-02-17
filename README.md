@@ -1,4 +1,5 @@
 # Data Mining Repository
 
 ## Contents
-1. Product Scoring & Sales Prediction
+1. Bitcoin Price Prediction
+2. Product Scoring & Sales Prediction
